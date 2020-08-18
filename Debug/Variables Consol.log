@@ -1,0 +1,3 @@
+﻿  variable.cpp
+C:\Users\moham\OneDrive\Desktop\Variables Program\Variables Consol\variable.cpp(42): warning C4715: 'Chose': not all control paths return a value
+  Variables Consol.vcxproj -> C:\Users\moham\OneDrive\Desktop\Variables Program\Variables Consol\Debug\Variables Consol.exe
